@@ -1,6 +1,6 @@
 {
-  "name": "raf-throttle",
-  "version": "1.0.0",
+  "name": "raf-throttle-edge",
+  "version": "1.0.2",
   "description": "Throttle a function by RequestAnimationFrame with options for Leading Edge & Trailing Edge",
   "main": "lib/rafThrottle.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "prepublish": "npm run build"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/AbhilashSrivastava/raf-throttle-edge"
   },
   "keywords": [
     "raf",
